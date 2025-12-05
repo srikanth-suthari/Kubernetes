@@ -1,4 +1,4 @@
-#Env variables in K8s
+#Env variables
 kind: Pod
 apiVersion: v1
 metadata:
