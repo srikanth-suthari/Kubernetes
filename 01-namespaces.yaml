@@ -1,3 +1,4 @@
+#creating a k8s namespace
 apiVersion: v1
 kind: Namespace
 metadata:
